@@ -1,1 +1,1 @@
-Hellow welcomme to git tutorial by nilkantha in kudvenket blog.
+Hellow welcomme to git tutorial by nilkantha in kudvenket blog.in next vedio we weill learn git add,commit,push
